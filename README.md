@@ -1,10 +1,6 @@
 # Sentiment-Analysis-Demo-Custom-Fine-Tuned-Model-vs.-Llama-3
 
-Below is a single Python cell that contains all the text for your README and writes it to a file named `README.md` in your repository. Simply run this cell in your notebook, and it will create the README file with all the content.
 
-```python
-readme_text = """
-# Sentiment Analysis Demo
 
 This repository contains a sentiment analysis system that leverages two different models to classify text as either positive or negative. The system includes:
 
