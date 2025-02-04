@@ -127,7 +127,7 @@ Alternatively, a React-based UI is available in the `react-ui` folder if you pre
 
 ## Demo Video
 
-Watch the demo video on YouTube: [Demo Video Link](https://youtu.be/HNTzqxRKDBU)
+Watch the demo video on YouTube: [Demo Video Link](https://youtu.be/Y_wiJANVcL0)
 
 ## License
 
