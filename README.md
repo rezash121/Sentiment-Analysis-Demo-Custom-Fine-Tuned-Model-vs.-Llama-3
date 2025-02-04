@@ -142,5 +142,4 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 - **Hugging Face Transformers:** For providing the framework to build and fine-tune custom models.
 - **Groq Cloud API:** For providing access to the Llama 3 model.
 - **FastAPI:** For the simple and powerful backend API.
-- **ipywidgets:** For enabling interactive UIs in Jupyter Notebook..
-"""
+- **ipywidgets:** For enabling interactive UIs in Jupyter Notebook.
